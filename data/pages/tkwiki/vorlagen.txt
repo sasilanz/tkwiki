@@ -1,0 +1,26 @@
+====== Arbeitsvorlagen ======
+
+===== Chakra Analysen =====
+==== Themen der verschiedenen Chakren und ihre Zuordnungen - Übersicht ====
+{{ :chakren_themenuebersicht_vorlage.doc |}}\\ 
+\\ 
+{{ :vorlage_chakra-kurzanalyse.pdf |}}
+
+==== Vorlage Mensch ====
+{{ :vorlage_chakra-analyse_alle_chakren.pdf |}}\\ 
+{{ :vorlage_chakra-analyse_mensch_ungleichgewichte.pdf |}}
+==== Vorlage Hund ====
+{{ :vorlage_chakra-analyse_hund_ungleichgewichte.pdf |}}
+==== Vorlage Katze ====
+{{ :vorlage_chakra-analyse_katze_ungleichgewichte.pdf |}}
+
+===== Pendelliste Schüsslersalze =====
+{{ :schuesslersalze_antlitz-analyse_uebersicht.pdf |}}
+
+===== Pendelliste Bachblüten =====
+==== in 7 Gruppen ====
+{{ :bluetengruppen_kurzuebersicht.pdf |}}
+==== Liste jeder einzelnen Blüte mit Kurzbeschreibung  ====
+{{ :bachblueten_kurzuebersicht.pdf |}}
+
+
